@@ -1,2 +1,2 @@
-# accordian-solitaire
-A one-page script that plays accordian solitaire for you.
+# accordion-solitaire
+A one-page script that plays accordion solitaire for you.
